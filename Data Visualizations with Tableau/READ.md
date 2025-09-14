@@ -7,10 +7,10 @@ _Created visualizations to communicate key findings effectively to the Superstor
 - Used calculated fields, parameters, and filters to enhance interactivity
 - Designed multiple visualizations (bar charts, line graphs) tailored to business questions
 - Built an interactive dashboard with drop-down capabilities and user filters
-          ## Findings 
-          - Top 3 producing states based on avg profit: INDIANA- OCTOBER $643.10, RHODE ISLAND- DECEMBER $250.00, VERMONT-             NOVEMBER $596.00
-          - Bottom 3 Subcategories based on Profit: Bookcases, Supplies, and Tables
-          - Top 3 Subcategories based on Profit: Accessories, Copiers, and Phones 
+  ### Findings 
+  - Top 3 producing states based on avg profit: INDIANA- OCTOBER $643.10, RHODE ISLAND- DECEMBER $250.00, VERMONT-             NOVEMBER $596.00
+  - Bottom 3 Subcategories based on Profit: Bookcases, Supplies, and Tables
+  - Top 3 Subcategories based on Profit: Accessories, Copiers, and Phones 
 
 ### Insights
 _Provided the Superstore's team with meaningful data to help better understand profitability and loss based on return rates, regions/states, subcategories, and profits_
