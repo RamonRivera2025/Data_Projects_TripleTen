@@ -22,3 +22,4 @@ _Provided recommendations to enhance user engagement and retention strategies_
 
 ### Files
 [Copy of BIA Welcome Sprint Project. Fresh Beats User Data.xlsx](https://github.com/user-attachments/files/22307841/Copy.of.BIA.Welcome.Sprint.Project.Fresh.Beats.User.Data.xlsx)
+[Fresh Beats Report](https://docs.google.com/document/d/1tiZ1xaYJC108WhjZbyDCDSZJy22r4nY06cu2xTx-LOg/edit?usp=sharing)
