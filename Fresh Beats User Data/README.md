@@ -6,9 +6,9 @@ _Investigated user patterns and genre trends to suggest content promotion strate
 
 ### Results
 _Created visualizations to communicate key findings effectively to stakeholders_
-- Paid users have steadier growth and better user retention than free
+- Paid users have steadier growth and better user retention than free users
 - Rock is the most popular genre for free users.
-- Pop genre peaked in 2021 and is on a downwards trend
+- Pop genre peaked in 2021 and is on a downward trend
 
 ### Insights
 _Provided recommendations to enhance user engagement and retention strategies_
@@ -22,4 +22,5 @@ _Provided recommendations to enhance user engagement and retention strategies_
 
 ### Files
 [Copy of BIA Welcome Sprint Project. Fresh Beats User Data.xlsx](https://github.com/user-attachments/files/22307841/Copy.of.BIA.Welcome.Sprint.Project.Fresh.Beats.User.Data.xlsx)
+
 [Fresh Beats Report](https://docs.google.com/document/d/1tiZ1xaYJC108WhjZbyDCDSZJy22r4nY06cu2xTx-LOg/edit?usp=sharing)
